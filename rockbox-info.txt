@@ -1,0 +1,17 @@
+Target: erosqnative
+Target id: 116
+Target define: -DEROS_QN
+Memory: 32
+CPU: mips
+Manufacturer: ingenic_x1000
+Version: adbd0125fd-241206
+Binary: rockbox.erosq
+Binary size: 773792
+Voice format: 400
+Actual size: 773784
+RAM usage: 1431120
+Features: backlight_brightness:crossfade:dircache:headphone_detection:lineout_detection:hotkey:lcd_bitmap:lcd_non-mono:lcd_color:pitchscreen:multivolume:quickscreen:rtc:swcodec:tagcache:tc_ramcache:charging:usb_charging_enable:filter_roll_off:es9018:large_plugin_buffer:albumart:backlight_fade_bool:sd_storage:scrollwheel:usb_power:usbstack:usb_hid:himem:play_frequency:boot_data:multi_boot:perceptual_volume:codec_aac_he
+gcc: mipsel-elf-gcc (GCC) 4.9.4
+ld: GNU ld (GNU Binutils) 2.26.1
+Host gcc: gcc (Debian 8.3.0-6) 8.3.0
+Host system: Linux
