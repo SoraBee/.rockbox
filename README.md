@@ -1,5 +1,6 @@
 THIS IS ONLY FOR VERSION 3.4 OF THE SURFANS F20
 PLEASE TAKE THE UPDATE FILE OUT OF .rockbox AFTER DOWNLOADING THIS REPOSITORY
+
 You may need to enable show hidden files in explorer (if on windows) as the rockbox folder starts with a period (.)
 
 To install rockbox just do the following with the files in this repo:
